@@ -8,6 +8,7 @@ function App() {
       <header className="App-header">
         <h1>Torian Jacobs</h1>
         <h3>Learing more about Git</h3>
+        <p>By No means to I Claim to be an expert in anything that I do but I will learn as much as I can.</p>
       </header>
     </div>
   );
